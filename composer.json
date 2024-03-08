@@ -1,17 +1,17 @@
 {
-    "name": "janiskelemen/laravel-setting",
+    "name": "sewidan/laravel-setting",
     "description": "Laravel Settings Manager",
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Janis Kelemen",
-            "email": "janis@helpspace.com",
-            "homepage": "https://helpspace.com"
+            "name": "sewidan",
+            "email": "sewidanmostafa@gmail.com",
+            "homepage": "https://github.com/MostafaSewidan"
         }
     ],
-    "homepage": "https://github.com/janiskelemen/laravel-setting",
+    "homepage": "https://github.com/MostafaSewidan/laravel-setting",
     "keywords": [
         "Laravel",
         "Setting",
